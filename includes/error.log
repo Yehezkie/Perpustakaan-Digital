@@ -1,0 +1,4 @@
+[22-Jun-2025 13:56:07 Europe/Berlin] PHP Warning:  Constant BASE_PATH already defined in C:\xampp\htdocs\digital_library\includes\config.php on line 40
+[22-Jun-2025 13:56:07 Europe/Berlin] PHP Warning:  Constant ASSETS_URL already defined in C:\xampp\htdocs\digital_library\includes\config.php on line 50
+[22-Jun-2025 13:56:17 Europe/Berlin] PHP Warning:  Constant BASE_PATH already defined in C:\xampp\htdocs\digital_library\includes\config.php on line 40
+[22-Jun-2025 13:56:17 Europe/Berlin] PHP Warning:  Constant ASSETS_URL already defined in C:\xampp\htdocs\digital_library\includes\config.php on line 50

@@ -1,0 +1,15 @@
+[21-Jun-2025 12:25:01 Asia/Jakarta] PHP Fatal error:  Cannot redeclare is_localhost() (previously declared in C:\xampp\htdocs\digital_library\index.php:41) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 261
+[21-Jun-2025 12:25:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare is_localhost() (previously declared in C:\xampp\htdocs\digital_library\index.php:41) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 261
+[21-Jun-2025 12:56:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare load_asset() (previously declared in C:\xampp\htdocs\digital_library\index.php:43) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 213
+[21-Jun-2025 12:56:20 Asia/Jakarta] PHP Fatal error:  Cannot redeclare load_asset() (previously declared in C:\xampp\htdocs\digital_library\index.php:43) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 213
+[21-Jun-2025 12:56:20 Asia/Jakarta] PHP Fatal error:  Cannot redeclare load_asset() (previously declared in C:\xampp\htdocs\digital_library\index.php:43) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 213
+[21-Jun-2025 12:56:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare load_asset() (previously declared in C:\xampp\htdocs\digital_library\index.php:43) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 213
+[21-Jun-2025 12:56:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare load_asset() (previously declared in C:\xampp\htdocs\digital_library\index.php:43) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 213
+[21-Jun-2025 12:56:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare load_asset() (previously declared in C:\xampp\htdocs\digital_library\index.php:43) in C:\xampp\htdocs\digital_library\includes\utilities.php on line 213
+[21-Jun-2025 13:31:01 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
+[21-Jun-2025 13:37:59 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
+[21-Jun-2025 13:38:01 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
+[21-Jun-2025 13:41:30 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
+[21-Jun-2025 13:41:32 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
+[21-Jun-2025 13:41:32 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
+[21-Jun-2025 13:41:33 Asia/Jakarta] PHP Warning:  Undefined variable $bootstrap_js in C:\xampp\htdocs\digital_library\includes\footer.php on line 99
